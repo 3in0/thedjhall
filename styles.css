@@ -30,6 +30,11 @@ footer {
     height: 50px;
 }
 
+H2{
+display: inline-block;
+color:white;
+}
+
 .navbar {
     display: flex;
     justify-content: flex-end;
